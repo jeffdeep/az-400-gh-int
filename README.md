@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/az400-trainingorg/27012f5e-81d1-406e-8f58-2429ca06bef1/e9893ed7-1f00-408b-be45-6d6e1a3982fd/_apis/work/boardbadge/f8ac9345-1ffe-4bbc-8929-9bb04a83c599)](https://dev.azure.com/az400-trainingorg/27012f5e-81d1-406e-8f58-2429ca06bef1/_boards/board/t/e9893ed7-1f00-408b-be45-6d6e1a3982fd/Microsoft.RequirementCategory)
 # az-400-gh-int
